@@ -31,14 +31,17 @@ section{
 
 /* Header */
 header {
-    background-image: url(../img/qDum1yhNftUMaIB3pPiZ7PLsIto.jpg);
-    height: 100vh;
-    padding: 20px;
+    background-image: url(../img/principal.jpg);
+    height: 130vh;
+    padding: 60px;
     background-size: cover;
     background-position: bottom;
     background-position: center;
     background-repeat: no-repeat;
 }
+/* .logo {
+    position: relative;
+} */
 
 .header-content {
     margin-bottom: 150px;
